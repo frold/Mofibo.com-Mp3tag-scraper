@@ -1,4 +1,4 @@
-# Morfibo.com-Mp3tag-scraper
+# Mofibo.com-Mp3tag-scraper
 Let Mp3Tag parsing audiobook information from mofibo.com
 
 This is my modified custom web source for mp3tag. The original authors are qudo, dano, and Romano and with inspiration from seanap
