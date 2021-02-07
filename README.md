@@ -12,5 +12,5 @@ BINGO!
 
 E.g use this format string: 
 ```sh
-$C:\path\to\your\Audiobooks\Audiobooks\%albumartist%\%series%\%year% - %album%[ '['%series% %series-part%']']\%album% (%year%) ['['%series% %series-part%']' ]- %Narrator%
+C:\path\to\your\Audiobooks\Audiobooks\%albumartist%\%series%\%year% - %album%[ '['%series% %series-part%']']\%album% (%year%) ['['%series% %series-part%']' ]- %Narrator%
 ```
