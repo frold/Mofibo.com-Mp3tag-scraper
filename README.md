@@ -11,4 +11,6 @@ Windows
 BINGO!
 
 E.g use this format string: 
->C:\path\to\your\Audiobooks\Audiobooks\%albumartist%\%series%\%year% - %album%[ '['%series% %series-part%']']\%album% (%year%) ['['%series% %series-part%']' ]- %Narrator%
+```sh
+$C:\path\to\your\Audiobooks\Audiobooks\%albumartist%\%series%\%year% - %album%[ '['%series% %series-part%']']\%album% (%year%) ['['%series% %series-part%']' ]- %Narrator%
+```
