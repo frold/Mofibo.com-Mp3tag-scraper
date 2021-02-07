@@ -10,5 +10,5 @@ Windows
 4. Tag the file and e.g. edit some changes
 BINGO!
 
-EG use this format string: 
-C:\Users\flil\Desktop\Audiobooks\%albumartist%\%series%\%year% - %album%[ '['%series% %series-part%']']\%album% (%year%) ['['%series% %series-part%']' ]- %Narrator% 
+E.g use this format string: 
+C:\Users\xxxx\Desktop\Audiobooks\%albumartist%\%series%\%year% - %album%[ '['%series% %series-part%']']\%album% (%year%) ['['%series% %series-part%']' ]- %Narrator% 
