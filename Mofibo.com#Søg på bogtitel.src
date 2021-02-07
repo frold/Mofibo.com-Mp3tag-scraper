@@ -178,8 +178,9 @@ endif
 outputto "Composer"
 findline "bookDetailListItem"
 moveline 2
-findinline ":"
+findinline ":" 1 1
 sayuntil "</b>"
+
 
 #Publisher (working)
 outputto "Publisher"
